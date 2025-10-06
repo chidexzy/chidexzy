@@ -1,7 +1,4 @@
 <!-- Banner / Hero Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66396748?u=e98f7770692334f45c9b15045439bb1e65325e7a&v=4" alt="Banner image" width="50%">
-</p>
 
 <h1 align="center">Hi there, I’m Promise Okwudire 👋</h1>
 
@@ -24,31 +21,27 @@
 
 ---
 
-## 🔧 What I Use
-
-Here's a snapshot of my toolbox:
+## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tkinter-1248c9?logo=python&logoColor=white&style=for-the-badge" alt="Tkinter"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-00519A?logo=arduino&logoColor=white&style=for-the-badge" alt="Embedded Systems"/>
-  <!-- Add more as needed -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-006400?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projects & Portfolio
+## 🚀 Featured Projects  
 
-Here are some selected projects I’ve built. (You can include screenshots / GIFs for each.)
-
-| Project | What it does | Tech Stack | Screenshot / Demo |
-|---|---------------|-------------|---------------------|
-| **[Project A](https://github.com/chidexzy/project-a-link)** | Short description of what problem it solves or what it's about. | Python · GUI · APIs | ![Project A demo](https://yourdomain.com/images/projectA-demo.png) |
-| **[Project B](https://github.com/chidexzy/project-b-link)** | Another project — utility, bot, or tool etc. | Embedded System · Sensors · … | ![Project B demo](https://yourdomain.com/images/projectB-demo.png) |
-| **[Project C](https://github.com/chidexzy/project-c-link)** | … | … | … |
-
-> ⚠️ *If you don’t yet have images/gifs, consider recording your app in use, or taking screenshots. It adds a lot.*
+| Project | Description | Tech Stack | Preview |
+|:--------|:-------------|:-----------|:--------|
+| 🗂️ **[FILE](https://github.com/chidexzy/file)** | A lightweight yet powerful tool for handling both small and large datasets. Supports smart reading, writing, and processing of data files. | Python · JSON · File I/O | ![File Tool](https://img.shields.io/badge/Data-Processing-blue?style=flat-square) |
+| 🔐 **[Password Generator](https://github.com/chidexzy/password-generator)** | Generates secure, random passwords based on user preferences (length, symbols, numbers, etc.). | Python · Random · Tkinter | ![Password Generator](https://img.shields.io/badge/Security-Tool-red?style=flat-square) |
+| 🤖 **[Ultron](https://github.com/chidexzy/ultron)** | A Facebook password vulnerability tester built for educational and research purposes. Tests password strength and login security. | Python · Requests · Automation | ![Ultron](https://img.shields.io/badge/Security-Audit-orange?style=flat-square) |
+| 💹 **[Stock Tracker](https://github.com/chidexzy/stock-tracker)** | Tracks user-defined stocks, calculates total investments, and gives a quick summary of performance. | Python · Tkinter · CSV | ![Stock Tracker](https://img.shields.io/badge/Finance-Tracker-green?style=flat-square) |
 
 ---
 
