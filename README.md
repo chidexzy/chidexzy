@@ -1,9 +1,9 @@
 <!-- Banner / Hero Image -->
 <p align="center">
-  <img src="https://yourdomain.com/path-to-banner-image.jpg" alt="Banner image" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/66396748?u=e98f7770692334f45c9b15045439bb1e65325e7a&v=4" alt="Banner image" width="100%">
 </p>
 
-<h1 align="center">Hi there, I’m Chidex 👋</h1>
+<h1 align="center">Hi there, I’m Promise Okwudire 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chidexzy&color=green" alt="Profile views"/>
@@ -16,10 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I build projects using **Python**, **embedded hardware**, **automation tools**, and creative GUI/front-ends.  
+- 🎓 Agricultural and Bioresource Engineer
+- 🔭 I build projects using **Python**, **automation tools**, and creative GUI/front-ends.  
 - 🌱 Currently learning **machine learning / AI** models and how to deploy them.  
 - ⚙️ I love turning small ideas into tools that solve real problems.  
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
+- 📫 How to reach me: **[Promiseokwudire@gmail.com](mailto:promiseokwudire@gmail.com)**  
 
 ---
 
