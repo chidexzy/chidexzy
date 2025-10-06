@@ -1,6 +1,6 @@
 <!-- Banner / Hero Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66396748?u=e98f7770692334f45c9b15045439bb1e65325e7a&v=4" alt="Banner image" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/66396748?u=e98f7770692334f45c9b15045439bb1e65325e7a&v=4" alt="Banner image" width="50%">
 </p>
 
 <h1 align="center">Hi there, I’m Promise Okwudire 👋</h1>
